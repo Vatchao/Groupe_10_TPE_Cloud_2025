@@ -6,7 +6,7 @@ LISTE DES MEMBRES DU GROUPE 10 :
 - VATCHAO HANDINGBAA HYACINTHE SIDAOSSOU (21A089FS)
 - BAH NIGEL BUNRI (20B145FS)
 
-                        LES CONTRIBUTIONS INDIVIDUEL:
+                              LES CONTRIBUTIONS INDIVIDUEL:
   
 
           NOMS ET PRENOMS                                                CONTRIBUTIONS 
