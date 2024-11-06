@@ -11,8 +11,8 @@ LISTE DES MEMBRES DU GROUPE 10 :
 
 LES CONTRIBUTIONS DE CHACUNS             
                                                  
- - BAH NIGEL BUNRI  --->  Mise en place d'une fonction robuste pour la validation des entrées "Y/n"                                   
- - DJOKI HUGENE LIONEL  --->  Validation de l'entrée de la longueur du mot de passe, en assurant que seule une valeur correcte est acceptée
+ - BAH NIGEL BUNRI  --->  Mise en place d'une fonction robuste pour la validation des entrées "Y/n".                                   
+ - DJOKI HUGENE LIONEL  --->  Validation de l'entrée de la longueur du mot de passe, en assurant que seule une valeur correcte est acceptée.
  - DJINFALBE CHINDANNE NESTOR  --->  Interrogation et validation des préférences utilisateur pour les types de caractères.                        
  - VATCHAO HANDINGBAA HYACINTHE SIDAOSSOU  ---> Coordination et intégration de toutes les fonctions, gestion des erreurs, et affichage du mot de passe.      
  - YANGANI ALPHA BENAJA  ---> Construction de la fonction centrale de génération du mot de passe.                                         
